@@ -1,0 +1,2 @@
+#Funtional programming 
+- using lambda 
